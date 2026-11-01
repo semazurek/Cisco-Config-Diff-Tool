@@ -38,7 +38,7 @@ A cross-platform Python tool with a Tkinter Graphical User Interface (GUI) desig
 Open Command Prompt or PowerShell in the repository folder and run:
 
 ```cmd
-python compare.py
+python CCDT.py
 ```
 ### Running on Linux
 
@@ -47,4 +47,4 @@ Open Terminal and run:
 ```shell
 python -m venv venv
 .\venv\Scripts\activate
-python compare.py
+python CCDT.py
