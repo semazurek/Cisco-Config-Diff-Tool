@@ -46,5 +46,5 @@ Open Terminal and run:
 
 ```shell
 python -m venv venv
-.\venv\Scripts\activate
+source .\venv\Scripts\activate
 python CCDT.py
