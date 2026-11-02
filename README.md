@@ -46,5 +46,5 @@ Open Terminal and run:
 
 ```shell
 python -m venv venv
-source .\venv\Scripts\activate
+source ./venv/bin/activate.fish
 python CCDT.py
